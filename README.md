@@ -35,7 +35,7 @@ Currently exploring the intersection of <b>web, systems, and AI</b>.
 - 🏥 **Parkvue - Parking Management system**  
   A full-stack system designed around real workflows, not just UI screens  
 
-- 🧠 **Music Web Player **  
+- 🧠 **Music Web Player**  
   Exploring automation, data flow, and decision-making logic  
 
 - 🌐 **Personal Portfolio & Dev Experiments**  
@@ -58,18 +58,6 @@ Currently exploring the intersection of <b>web, systems, and AI</b>.
 - 🛠️ Clean code, readable structure, thoughtful design  
 
 *(Pinned repositories tell the real story.)*
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vedant241206&show_icons=true&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant241206&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant241206&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
