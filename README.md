@@ -739,35 +739,33 @@ Participating in technical-community and collaborative student initiatives.
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
 ## 08. The GitHub Pulse
-
 <div align="center">
 
 <h3>Experiments, repositories, and the journey of continuous improvement.</h3>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant241206&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;ring_color=6366F1" alt="GitHub Statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant241206&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=22D3EE&amp;text_color=CBD5E1" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant241206&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&ring_color=6366F1" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant241206&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=vedant241206&amp;hide_border=true&amp;background=0B1120&amp;ring=22D3EE&amp;fire=A78BFA&amp;currStreakLabel=22D3EE&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF" alt="Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=vedant241206&hide_border=true&background=0B1120&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Contribution Streak" />
 
-<br/>
+<br/><br/>
 
 <h3>My Contribution Journey</h3>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant241206&amp;bg_color=0B1120&amp;color=22D3EE&amp;line=8B5CF6&amp;point=FFFFFF&amp;area=true&amp;area_color=4338CA&amp;hide_border=true&amp;custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant241206&bg_color=0B1120&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&area_color=4338CA&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub Contribution Activity Graph" />
 
-<br/>
+<br/><br/>
 
 <sub>
-These visuals use live public GitHub data. Programming-language statistics represent repository code, not individual proficiency.
+  These visualizations use public GitHub data. Language statistics reflect repository code, not individual proficiency.
 </sub>
 
 </div>
-
-<br/>
 
 <!-- ===================== HOW I THINK ===================== -->
 
