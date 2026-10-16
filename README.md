@@ -1,620 +1,891 @@
 
-<!-- =========================================================
-     VEDANT PAWAR — DEVELOPER PROFILE
-     GitHub: vedant241206
-     Single-file GitHub profile README
-========================================================== -->
+<!-- ================================================================ -->
+<!--                                                                  -->
+<!--                  V E D A N T   P A W A R                         -->
+<!--                                                                  -->
+<!--        Artificial Intelligence  ×  Data Science  ×  Code         -->
+<!--                                                                  -->
+<!--              A Personal Engineering Portfolio                    -->
+<!--                github.com/vedant241206                           -->
+<!--                                                                  -->
+<!-- ================================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=38BDF8" alt="Cyan accent"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:060B19,30:172554,65:4338CA,100:0891B2&amp;height=280&amp;section=header&amp;text=VEDANT%20PAWAR&amp;fontSize=66&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=ARTIFICIAL%20INTELLIGENCE%20%20%E2%80%A2%20%20DATA%20SCIENCE%20%20%E2%80%A2%20%20ENGINEERING&amp;descAlignY=58&amp;descSize=16" alt="Vedant Pawar — AI and Data Science"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;height=65&amp;lines=I+build+intelligent+systems+for+real+problems.;AI+is+powerful.+Purpose+makes+it+meaningful.;From+raw+data+to+real-world+products.;Curious+mind.+Engineering+mindset.;Learning+%E2%86%92+Building+%E2%86%92+Evolving." alt="Animated Developer Introduction"/>
+</a>
 
 <br/>
 
-<sub>VEDANT PAWAR &nbsp; / &nbsp; ENGINEERING · INTELLIGENCE · EXECUTION</sub>
-
-<br/><br/>
-
-# VEDANT PAWAR
-
-### I turn complex ideas into things people can actually use.
+### `AI & Data Science Undergraduate` · `Applied AI Builder` · `Problem Solver`
 
 <p>
-  AI & Data Science undergraduate at
-  <b>K. J. Somaiya Institute of Technology</b>
+Exploring the intersection of <b>intelligent technology, thoughtful engineering, and real-world impact.</b>
 </p>
-
-<p>
-  <a href="https://github.com/vedant241206">GITHUB</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/vedant-pawar-454514331/">LINKEDIN</a>
-  &nbsp; / &nbsp;
-  <a href="https://vedantpawar.vercel.app/">PORTFOLIO</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:vedantpawar434@gmail.com">CONTACT</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science;LLM+Evaluation+%26+Post-Training;Data+Analysis+%26+Machine+Learning;Full-Stack+%26+Mobile+Development;Ideas+%E2%86%92+Experiments+%E2%86%92+Working+Products" alt="Areas of focus"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vedant241206&style=flat-square&color=0B1220&label=PROFILE+VISITS" alt="Profile visit counter"/>
+<a href="https://vedantpawar.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=22D3EE" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://in.linkedin.com/in/vedant-pawar-454514331">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:vedantpawar434@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/vedant241206?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories"/>
+</a>
 
 <br/><br/>
 
-</div>
-
----
-
-<div align="center">
-
-## NOT JUST THE MODEL. NOT JUST THE UI. THE WHOLE PROBLEM.
+<img src="https://komarev.com/ghpvc/?username=vedant241206&amp;style=flat-square&amp;color=6366F1&amp;label=PROFILE+VISITORS" alt="Profile Visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/vedant241206?style=flat-square&amp;color=0891B2&amp;label=FOLLOWERS" alt="GitHub Followers"/>
 
 </div>
 
-I am **Vedant Nilesh Pawar**, an AI & Data Science undergraduate interested in building practical software at the intersection of intelligent systems, data, and user experience.
+<br/>
 
-My journey has taken me through evaluating large language model outputs, analyzing thousands of Reddit posts, leading a data science team, and developing applications across healthcare, smart parking, and web development.
+<!-- ===================== INTRODUCTION ===================== -->
 
-I like understanding how things work beneath the surface — what the data tells us, how the system behaves, where the failure originates, and what makes a solution genuinely useful.
+## 01. The Human Behind the Code
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="60%" valign="top">
 
-**01 / THINK**
+<h3>Hey there, I'm Vedant 👋</h3>
 
-Understand the problem before selecting the technology.
+<p>
+I'm <strong>Vedant Nilesh Pawar</strong>, an Artificial Intelligence &amp; Data Science undergraduate at <strong>K. J. Somaiya Institute of Technology, Mumbai</strong>.
+</p>
+
+<p>
+I'm passionate about understanding how intelligent systems work — and even more interested in making them useful.
+</p>
+
+<p>
+My journey spans <strong>Large Language Models, Machine Learning, Data Analytics, Computer Vision, and Software Development</strong>.
+</p>
+
+<p>
+I enjoy building across the full engineering process: discovering a problem, understanding the data, experimenting with models, developing the product, and improving how it works.
+</p>
+
+<p>
+From evaluating LLM responses to leading a data science team and developing AI-powered applications, I value both <strong>technical depth</strong> and <strong>practical execution</strong>.
+</p>
+
+<blockquote>
+<strong>My philosophy:</strong><br/>
+Don't just build something intelligent.<br/>
+Build something that makes a difference.
+</blockquote>
 
 </td>
-<td width="33%" valign="top">
+<td width="40%" valign="top">
 
-**02 / BUILD**
+<h3 align="center">Developer Snapshot</h3>
 
-Turn the idea into a working, testable product.
-
-</td>
-<td width="34%" valign="top">
-
-**03 / VERIFY**
-
-Test assumptions, investigate failures, and improve the result.
+<pre>
+┌─────────────────────────┐
+│                         │
+│  NAME                   │
+│  Vedant Pawar           │
+│                         │
+│  LOCATION               │
+│  Mumbai, India          │
+│                         │
+│  EDUCATION              │
+│  B.Tech - AI & DS       │
+│                         │
+│  ACADEMICS              │
+│  CGPA: 9.0 / 10         │
+│                         │
+│  PRIMARY INTERESTS      │
+│  Applied AI             │
+│  Machine Learning       │
+│  Data Science           │
+│  LLM Evaluation         │
+│  Computer Vision        │
+│                         │
+│  PERSONAL MOTTO         │
+│  Learn. Build. Evolve.  │
+│                         │
+└─────────────────────────┘
+</pre>
 
 </td>
 </tr>
 </table>
 
----
-
-## 01 — THE LIVE COMMAND CENTER
-
-<sub>PUBLIC GITHUB DATA · DYNAMIC WIDGETS</sub>
-
 <div align="center">
 
-<a href="https://github.com/vedant241206">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant241206&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github&include_all_commits=true" alt="GitHub overview"/>
-</a>
-<a href="https://github.com/vedant241206?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant241206&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=10" alt="Repository language breakdown"/>
-</a>
+### A few numbers from my journey
 
-<br/><br/>
-
-<a href="https://github.com/vedant241206">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant241206&theme=github_dark" alt="GitHub contribution overview"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/vedant241206">
-<img width="70%" src="https://streak-stats.demolab.com?user=vedant241206&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/vedant241206">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant241206&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity timeline"/>
-</a>
+<img src="https://img.shields.io/badge/9.0%20%2F%2010-ACADEMIC%20CGPA-6366F1?style=for-the-badge&amp;labelColor=111827" alt="Academic CGPA"/>
+&nbsp;
+<img src="https://img.shields.io/badge/10%20MEMBERS-TEAM%20LED-0891B2?style=for-the-badge&amp;labelColor=111827" alt="Team Leadership"/>
+&nbsp;
+<img src="https://img.shields.io/badge/6000%2B-REDDIT%20POSTS%20ANALYZED-7C3AED?style=for-the-badge&amp;labelColor=111827" alt="Posts Analyzed"/>
 
 </div>
 
-<sub>These visualizations fetch data from third-party GitHub statistics services. Language percentages, streaks, and totals depend on each service's calculation method and availability.</sub>
+<br/>
 
----
+<!-- ===================== EXPERTISE ===================== -->
 
-## 02 — SELECTED WORK
-
-<sub>REAL-WORLD PROBLEMS · DIFFERENT DOMAINS · ONE BUILDING MINDSET</sub>
-
-### 01 / PARKVUE
-
-<sub>SMART PARKING · COMPUTER VISION · APPLICATION DEVELOPMENT</sub>
-
-# Parking, managed intelligently.
-
-A smart parking management system designed around vehicle identification, authentication, and operational visibility — not just a parking-themed interface.
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-**WHAT IT DOES**
-
-- AI-based number plate recognition.
-- OTP authentication.
-- Vehicle and parking management.
-- Administrative analytics dashboard.
-- Revenue monitoring.
-
-**TECHNOLOGY**
-
-`TypeScript` `JavaScript` `Supabase` `Gemini Vision` `Vercel`
-
-</td>
-<td width="42%" valign="middle">
+## 02. What Excites Me About Technology
 
 <div align="center">
 
-<a href="https://parkvue-lemon.vercel.app/">
-<img width="100%" src="https://img.shields.io/badge/OPEN_LIVE_PRODUCT-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Open PARKVUE"/>
-</a>
+<p>
+My interests connect research, data, engineering, and user experience.
+</p>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 Artificial Intelligence</h3>
+
+Exploring intelligent models and how to evaluate, improve, and integrate them into meaningful applications.
+
+<code>LLMs</code> <code>Model Evaluation</code> <code>Machine Learning</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 Data Science</h3>
+
+Transforming raw datasets into insights through structured analysis, visualization, and problem-solving.
+
+<code>Python</code> <code>EDA</code> <code>Data Visualization</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>👁️ Computer Vision</h3>
+
+Using visual intelligence to support practical automation and recognition-based applications.
+
+<code>OpenCV</code> <code>Gemini Vision</code> <code>Image Recognition</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💻 Product Engineering</h3>
+
+Building applications that bring together functionality, accessible interfaces, and reliable technology.
+
+<code>Web Development</code> <code>Flutter</code> <code>Backend Services</code>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 03. My Engineering Toolkit
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&amp;theme=dark&amp;perline=7" alt="Programming Languages"/>
+
+<br/><br/>
+
+### AI, Machine Learning & Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark&amp;perline=7" alt="Machine Learning Tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3976AB?style=flat-square" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/LLM_Evaluation-7C3AED?style=flat-square" alt="LLM Evaluation"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square" alt="Prompt Engineering"/>
+
+<br/><br/>
+
+### Frameworks, Databases & Platforms
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,mongodb,mysql,git,github,vercel&amp;theme=dark&amp;perline=8" alt="Frameworks and Platforms"/>
+
+<br/><br/>
+
+### Development & Analytics Tools
+
+<img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="VS Code"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firestore"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 04. Selected Work — Ideas Into Products
+
+<div align="center">
+
+<h3>Things I've explored, engineered, and brought to life.</h3>
+
+<p>
+Four projects. Different domains. One shared goal:<br/>
+<strong>using technology to solve practical problems.</strong>
+</p>
+
+</div>
+
+<br/>
+
+<!-- PROJECT 01 -->
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+<h3>01 / PreDoc</h3>
+
+<h4>AI-Powered Preventive Healthcare</h4>
+
+<p>
+An <strong>offline-first, AI-powered mobile application</strong> focused on early disease-risk prediction and personal health monitoring.
+</p>
+
+<p>
+PreDoc brings together preventive healthcare concepts and applied machine learning to make health-related assistance more accessible.
+</p>
+
+<strong>What I built:</strong>
+
+<ul>
+<li>Early disease-risk prediction capabilities</li>
+<li>AI-powered health assistant and symptom analysis</li>
+<li>Medication reminder functionality</li>
+<li>Health score prediction</li>
+<li>Offline-first mobile application experience</li>
+</ul>
+
+<strong>Technology:</strong><br/>
+
+<code>Flutter</code> <code>Firebase</code> <code>Python</code> <code>TensorFlow</code> <code>YAMNet</code> <code>OpenCV</code>
+
+</td>
+<td width="35%" valign="middle" align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_01-PREDOC-8B5CF6?style=for-the-badge&amp;labelColor=111827" alt="PreDoc"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DOMAIN-HEALTHCARE_AI-7C3AED?style=flat-square" alt="Healthcare AI"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,tensorflow,opencv&amp;theme=dark&amp;perline=2" alt="PreDoc Stack"/>
+
+<br/><br/>
+
+<strong>AI × Healthcare</strong>
+
+<br/>
+
+<sub>Intelligent preventive assistance</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 02 -->
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/PROJECT_02-PARKVUE-06B6D4?style=for-the-badge&amp;labelColor=111827" alt="PARKVUE"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DOMAIN-SMART_MOBILITY-0891B2?style=flat-square" alt="Smart Mobility"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,supabase&amp;theme=dark&amp;perline=2" alt="PARKVUE Stack"/>
+
+<br/><br/>
+
+<strong>Computer Vision × Automation</strong>
+
+<br/>
+
+<sub>Smarter parking operations</sub>
+
+</td>
+<td width="65%" valign="top">
+
+<h3>02 / PARKVUE</h3>
+
+<h4>AI-Enhanced Smart Parking System</h4>
+
+<p>
+A <strong>smart parking management platform</strong> that combines authentication, AI number plate recognition, and operational analytics.
+</p>
+
+<p>
+Designed around making parking administration more organized and efficient.
+</p>
+
+<strong>What I built:</strong>
+
+<ul>
+<li>OTP-based user authentication</li>
+<li>AI-powered number plate recognition</li>
+<li>Parking and vehicle management</li>
+<li>Administrative analytics dashboard</li>
+<li>Revenue monitoring and reporting</li>
+</ul>
+
+<strong>Technology:</strong><br/>
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>TypeScript</code> <code>Java</code> <code>Supabase</code> <code>Gemini Vision</code>
 
 <br/><br/>
 
 <a href="https://github.com/vedant241206/PARKVUE">
-<img width="100%" src="https://img.shields.io/badge/EXPLORE_SOURCE_CODE-202938?style=for-the-badge&logo=github&logoColor=white" alt="PARKVUE source"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source Code"/>
 </a>
-
-</div>
+<a href="https://parkvue-lemon.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live PARKVUE"/>
+</a>
 
 </td>
 </tr>
 </table>
 
----
-
-### 02 / PREDOC
-
-<sub>PREVENTIVE HEALTHCARE · ON-DEVICE AI · MOBILE DEVELOPMENT</sub>
-
-# Health awareness before the hospital visit.
-
-An offline-first preventive healthcare application concept focused on personal health patterns, monitoring, and early risk awareness.
-
-**THE BUILD**
-
-- Health pattern monitoring and tracking.
-- AI health assistant and symptom analysis.
-- Medication reminders.
-- Health score and risk prediction concepts.
-- Exploration of audio-event detection for health monitoring.
-
-**TECHNOLOGY**
-
-`Flutter` `Python` `TensorFlow` `YAMNet` `OpenCV` `Firebase`
-
-The underlying idea is to make health-pattern awareness more accessible while exploring privacy-conscious, device-first processing.
-
----
-
-### 03 / REDDIT TRENDS ANALYSIS
-
-<sub>DATA SCIENCE · EXPLORATORY ANALYSIS · TEAM LEADERSHIP</sub>
-
-# Thousands of posts. Patterns worth finding.
-
-A data science internship project at InternPro focused on discovering trends and discussion patterns in Reddit content.
-
-<div align="center">
+<!-- PROJECT 03 -->
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="65%" valign="top">
 
-# 10
+<h3>03 / Reddit Trends Analysis</h3>
 
-<sub>TEAM MEMBERS LED</sub>
+<h4>Finding Patterns in Online Discussions</h4>
+
+<p>
+A data science project completed during my internship at <strong>InternPro</strong>, where I led a <strong>10-member team</strong> to analyze more than <strong>6,000 Reddit posts</strong>.
+</p>
+
+<p>
+The project focused on transforming large amounts of discussion data into interpretable trends and insights.
+</p>
+
+<strong>What I contributed:</strong>
+
+<ul>
+<li>Led a team of 10 data science interns</li>
+<li>Analyzed 6,000+ Reddit posts</li>
+<li>Performed data cleaning and preprocessing</li>
+<li>Conducted exploratory data analysis</li>
+<li>Created visualizations to identify discussion trends</li>
+</ul>
+
+<strong>Technology:</strong><br/>
+
+<code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code>
 
 </td>
-<td align="center" width="34%">
+<td width="35%" valign="middle" align="center">
 
-# 6,000+
+<img src="https://img.shields.io/badge/PROJECT_03-REDDIT_ANALYTICS-6366F1?style=for-the-badge&amp;labelColor=111827" alt="Reddit Analytics"/>
 
-<sub>REDDIT POSTS ANALYZED</sub>
+<br/><br/>
 
-</td>
-<td align="center" width="33%">
+<img src="https://img.shields.io/badge/ROLE-TEAM_LEADER-4338CA?style=flat-square" alt="Team Leader"/>
 
-# 1
+<br/><br/>
 
-<sub>COLLABORATIVE PROJECT</sub>
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python"/>
+
+<br/><br/>
+
+<h3>6,000+</h3>
+
+<sub>Reddit posts analyzed</sub>
+
+<br/><br/>
+
+<h3>10</h3>
+
+<sub>Team members led</sub>
 
 </td>
 </tr>
 </table>
 
-</div>
+<!-- PROJECT 04 -->
 
-**THE WORK**
+<table>
+<tr>
+<td width="35%" valign="middle" align="center">
 
-- Led a 10-member internship team.
-- Cleaned and prepared Reddit data.
-- Performed exploratory data analysis.
-- Identified discussion patterns and trends.
-- Created visualizations to communicate findings.
+<img src="https://img.shields.io/badge/PROJECT_04-MUSIC_PLAYER-0D9488?style=for-the-badge&amp;labelColor=111827" alt="Music Player"/>
 
-**TECHNOLOGY**
+<br/><br/>
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+<img src="https://img.shields.io/badge/DOMAIN-WEB_APPLICATION-059669?style=flat-square" alt="Web Application"/>
 
----
+<br/><br/>
 
-### 04 / MUSIC WEB PLAYER
+<img src="https://skillicons.dev/icons?i=html,css,js,vercel&amp;theme=dark&amp;perline=2" alt="Music Player Stack"/>
 
-<sub>FRONTEND ENGINEERING · INTERACTIVE EXPERIENCES</sub>
+<br/><br/>
 
-# A web player built around the listening experience.
+<strong>Design × Development</strong>
 
-A responsive music web application with playback controls and playlist functionality.
+<br/>
 
-**FEATURES**
+<sub>Responsive music experience</sub>
 
-- Play and pause controls.
-- Playlist management.
-- Seek-bar interaction.
-- Dynamic song loading.
-- Login interface.
+</td>
+<td width="65%" valign="top">
 
-**TECHNOLOGY**
+<h3>04 / Music Web Player</h3>
 
-`HTML` `CSS` `JavaScript`
+<h4>Interactive Web-Based Music Experience</h4>
 
-<div align="center">
+<p>
+A responsive music web application developed with a focus on usability, authentication, and playlist management.
+</p>
 
-<a href="https://music-webplayer-project.vercel.app/login.html">
-<img src="https://img.shields.io/badge/TRY_THE_WEB_PLAYER-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Try Music Web Player"/>
-</a>
+<strong>What I built:</strong>
+
+<ul>
+<li>Responsive music player interface</li>
+<li>User authentication</li>
+<li>Playlist management</li>
+<li>Web-based music listening experience</li>
+</ul>
+
+<strong>Technology:</strong><br/>
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Vercel</code>
+
+<br/><br/>
 
 <a href="https://github.com/vedant241206/Music--web-Player">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-202938?style=for-the-badge&logo=github&logoColor=white" alt="Music Web Player repository"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source Code"/>
+</a>
+<a href="https://music-webplayer-project.vercel.app/login.html">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live Music Player"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### More Than a Collection of Projects
+
+Every project is an opportunity to improve how I think, design, collaborate, and engineer.
+
+<br/>
+
+<a href="https://github.com/vedant241206?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_MY_PROJECTS-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="Explore Projects"/>
 </a>
 
 </div>
 
----
+<br/>
 
-### 05 / PERSONAL PORTFOLIO
+<!-- ===================== EXPERIENCE ===================== -->
 
-<sub>WEB DEVELOPMENT · VISUAL DESIGN · USER EXPERIENCE</sub>
-
-# A digital home for my work.
-
-My personal portfolio presents my projects, technical skills, and professional journey through a visually driven web experience.
-
-**FOCUS AREAS**
-
-- Clear presentation of projects and experience.
-- Responsive web design.
-- Visual hierarchy and usability.
-- Interactive frontend experiences.
+## 05. Professional Journey
 
 <div align="center">
 
+### Learning from real products, real teams, and real responsibilities.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+<strong>MAR – MAY 2026</strong>
+
+<br/>
+
+<code>REMOTE</code>
+
+</td>
+<td width="75%" valign="top">
+
+<h3>LLM Post-Training Intern</h3>
+
+<strong>Ethara AI</strong>
+
+<p>
+Worked on evaluating large language model responses and improving the consistency of AI-generated outputs.
+</p>
+
+<ul>
+<li>Evaluated responses for accuracy, quality, instruction-following, and safety</li>
+<li>Performed prompt evaluation and response validation</li>
+<li>Contributed to model reliability and user experience improvements</li>
+<li>Collaborated with cross-functional teams</li>
+</ul>
+
+<code>LLM Evaluation</code> <code>Prompt Engineering</code> <code>AI Quality</code>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<strong>DEC 2025 – JAN 2026</strong>
+
+<br/>
+
+<code>OFFLINE</code>
+
+</td>
+<td valign="top">
+
+<h3>Operations & Client Coordination</h3>
+
+<strong>Madheshiya Homes</strong>
+
+<p>
+Built experience in professional communication, operations, and customer-facing problem-solving.
+</p>
+
+<ul>
+<li>Managed documentation and office operations</li>
+<li>Guided prospective homebuyers through property details</li>
+<li>Resolved client queries</li>
+<li>Coordinated visits and communication between stakeholders</li>
+</ul>
+
+<code>Operations</code> <code>Client Relations</code> <code>Communication</code>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<strong>JUN – JUL 2025</strong>
+
+<br/>
+
+<code>REMOTE</code>
+
+</td>
+<td valign="top">
+
+<h3>Team Leader — Data Science Intern</h3>
+
+<strong>InternPro</strong>
+
+<p>
+Led a 10-member team on a Reddit trends analysis project.
+</p>
+
+<ul>
+<li>Coordinated project activities across the team</li>
+<li>Analyzed 6,000+ Reddit posts using Python</li>
+<li>Performed EDA and data cleaning</li>
+<li>Generated visual insights with Matplotlib and Seaborn</li>
+</ul>
+
+<code>Python</code> <code>Data Science</code> <code>Team Leadership</code>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== EDUCATION ===================== -->
+
+## 06. Academic Foundation
+
+<div align="center">
+
+<h3>🎓 K. J. Somaiya Institute of Technology</h3>
+
+<strong>Bachelor of Technology — Artificial Intelligence & Data Science</strong>
+
+<br/><br/>
+
+<code>2024 — Present</code>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CGPA-9.0%20%2F%2010-6366F1?style=for-the-badge&amp;labelColor=111827" alt="CGPA 9.0"/>
+
+<br/>
+
+<sub>Academic performance through Semester 4</sub>
+
+<br/><br/>
+
+My education gives me the foundations to explore how algorithms, data, intelligent systems, and software engineering can work together to solve meaningful problems.
+
+</div>
+
+<br/>
+
+<!-- ===================== COMMUNITY ===================== -->
+
+## 07. Beyond Engineering
+
+<div align="center">
+
+### Leadership is also about creating opportunities for others.
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<h2>♟️</h2>
+
+<h3>GRANDMASTER 2026</h3>
+
+<strong>Sole Chess Tournament Organizer</strong>
+
+<br/><br/>
+
+K.J.S.I.T.
+
+<br/><br/>
+
+Planning, coordination, and independently organizing a college-level chess tournament.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h2>📣</h2>
+
+<h3>S4DS KJSIT</h3>
+
+<strong>Marketing Team Member</strong>
+
+<br/><br/>
+
+June 2025 – June 2026
+
+<br/><br/>
+
+Contributing to outreach, communication, teamwork, and student-community activities.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h2>⚡</h2>
+
+<h3>IEEE KJSIT</h3>
+
+<strong>D.C.T. Team Member</strong>
+
+<br/><br/>
+
+June 2025 – Present
+
+<br/><br/>
+
+Participating in technical-community and collaborative student initiatives.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== GITHUB ACTIVITY ===================== -->
+
+## 08. The GitHub Pulse
+
+<div align="center">
+
+<h3>Experiments, repositories, and the journey of continuous improvement.</h3>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant241206&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;ring_color=6366F1" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant241206&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=22D3EE&amp;text_color=CBD5E1" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=vedant241206&amp;hide_border=true&amp;background=0B1120&amp;ring=22D3EE&amp;fire=A78BFA&amp;currStreakLabel=22D3EE&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF" alt="Contribution Streak"/>
+
+<br/>
+
+<h3>My Contribution Journey</h3>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant241206&amp;bg_color=0B1120&amp;color=22D3EE&amp;line=8B5CF6&amp;point=FFFFFF&amp;area=true&amp;area_color=4338CA&amp;hide_border=true&amp;custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub Contribution Graph"/>
+
+<br/>
+
+<sub>
+These visuals use live public GitHub data. Programming-language statistics represent repository code, not individual proficiency.
+</sub>
+
+</div>
+
+<br/>
+
+<!-- ===================== HOW I THINK ===================== -->
+
+## 09. How I Approach Problems
+
+<div align="center">
+
+### `Observe → Understand → Experiment → Engineer → Improve`
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 / Start With Why</h3>
+
+Understand the problem, its context, and the people affected before choosing the technology.
+
+<h3>02 / Think With Data</h3>
+
+Use evidence, analysis, and experimentation to guide decisions rather than assumptions.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>03 / Build With Purpose</h3>
+
+Focus on creating working solutions, not just interesting prototypes.
+
+<h3>04 / Keep Evolving</h3>
+
+Reflect on results, recognize limitations, and continuously improve the system and the process.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+> **The goal isn't to know every technology. It's to know how to learn, adapt, and build something valuable with it.**
+
+</div>
+
+<br/>
+
+<!-- ===================== PORTFOLIO ===================== -->
+
+## 10. Explore My Digital Space
+
+<div align="center">
+
+<h3>One developer. Multiple interests. An evolving journey.</h3>
+
+<p>
+My portfolio brings together my projects, experience, technical interests, and the work I'm proud to share.
+</p>
+
+<br/>
+
 <a href="https://vedantpawar.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/ENTER_MY_PORTFOLIO-4338CA?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/vedant241206/vedantpawar">
-<img src="https://img.shields.io/badge/PORTFOLIO_SOURCE-202938?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository"/>
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO_CODE-111827?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="Portfolio Source Code"/>
 </a>
 
-</div>
-
----
-
-### 06 / MULTIAGENT AI
-
-<sub>AI EXPERIMENTATION · PYTHON</sub>
-
-A public repository associated with a sample project made for FlowFit AI.
-
-<a href="https://github.com/vedant241206/multiagent-ai">Explore the repository →</a>
-
-<sub>For implementation specifics, refer to the source code and repository documentation.</sub>
-
----
-
-### MORE FROM MY GITHUB
-
-| Repository | Description |
-|:---|:---|
-| [Memory--game](https://github.com/vedant241206/Memory--game) | Memory game project |
-| [PARKVUE-lemon](https://github.com/vedant241206/PARKVUE-lemon) | Additional PARKVUE repository |
-| [All repositories](https://github.com/vedant241206?tab=repositories) | Browse my public work |
-
----
-
-## 03 — CURRENTLY EXPLORING
-
-<sub>PROTOTYPES · HACKATHONS · NEW ENGINEERING CHALLENGES</sub>
-
-Not every worthwhile project begins as a polished public repository. Some begin with a problem statement, an unfamiliar domain, and a working prototype.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### IDOR GUARD
-
-**Application security & root-cause repair**
-
-Exploring a security workflow focused on reproducing unauthorized resource access, identifying its root cause, proposing a minimal code fix, and verifying that the fix works without breaking other functionality.
-
-The goal is to go beyond reporting a vulnerability and investigate how it can be fixed and tested.
-
-</td>
-<td width="50%" valign="top">
-
-### THE HONEST MILLION
-
-**Financial UX & interactive storytelling**
-
-An investment and financial-planning experience built around a young person's financial journey.
-
-Exploring cinematic scrolling, visual storytelling, financial understanding, and how interface design can make complex decisions easier to approach.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### DISTRICT CLIMATE COMMAND CENTER
-
-**Climate technology & disaster management**
-
-Exploring a dashboard concept for disaster prediction, drought severity, vulnerability mapping, resource allocation, and ground-truth information.
-
-The objective is to bring multiple sources of information into a more actionable decision-making workflow.
-
-</td>
-<td width="50%" valign="top">
-
-### PREDOC
-
-**Preventive healthcare & personal data**
-
-Exploring health-pattern monitoring, privacy-conscious processing, and early risk-awareness concepts through an offline-first mobile application.
-
-</td>
-</tr>
-</table>
-
-<sub>These are project explorations and prototype directions, not claims that every capability is production-ready or publicly deployed.</sub>
-
----
-
-## 04 — EXPERIENCE
-
-### ETHARA AI
-
-**LLM Post-Training Intern** &nbsp; / &nbsp; `MAR 2026 — MAY 2026`
-
-<sub>REMOTE</sub>
-
-Worked on the evaluation and annotation of large language model responses.
-
-- Evaluated quality, accuracy, instruction following, and safety.
-- Performed prompt evaluation and response validation.
-- Collaborated with cross-functional teams to support model reliability and user experience.
-
-`LLM Evaluation` `Prompt Engineering` `Response Validation` `AI Safety`
-
----
-
-### MADHESHIYA HOMES
-
-**Operations & Client Coordination** &nbsp; / &nbsp; `DEC 2025 — JAN 2026`
-
-<sub>ON-SITE</sub>
-
-Worked across business operations, documentation, and prospective homebuyer communication.
-
-- Managed office operations and documentation.
-- Explained property features and answered client queries.
-- Coordinated site visits and communication between clients and internal teams.
-
-`Operations` `Client Coordination` `Communication` `Documentation`
-
----
-
-### INTERNPRO
-
-**Data Science Intern · Team Leader** &nbsp; / &nbsp; `JUN 2025 — JUL 2025`
-
-<sub>REMOTE</sub>
-
-Led a 10-member team working on Reddit Trends Analysis.
-
-- Coordinated collaborative data science project work.
-- Cleaned and explored data using Python, Pandas, and NumPy.
-- Analyzed 6,000+ Reddit posts.
-- Created visualizations using Matplotlib and Seaborn.
-
-`Python` `EDA` `Data Visualization` `Team Leadership`
-
----
-
-## 05 — THE TOOLKIT
-
-<sub>TECHNOLOGIES I HAVE WORKED WITH OR EXPLORED</sub>
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c&theme=dark" alt="Python Java JavaScript C"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### AI / Machine Learning / Data
-
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
-</p>
-
-Additional areas: LLM evaluation and post-training, prompt engineering, exploratory data analysis, data cleaning, and visualization.
-
-### Web / Mobile / Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,firebase,supabase,mongodb&theme=dark" alt="Web and mobile technologies"/>
-</p>
-
-Additional technologies: Firestore, Java, SQL, Gemini Vision, and Vercel.
-
-### Developer workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Development tools"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
-### Beyond the stack
-
-`Problem Solving` · `Leadership` · `Team Collaboration` · `Communication` · `Client Coordination` · `Project Ownership`
-
----
-
-## 06 — EDUCATION
-
-<table>
-<tr>
-<td width="75%" valign="top">
-
-### K. J. Somaiya Institute of Technology
-
-**B.Tech. in Artificial Intelligence & Data Science**
-
-2024 – Present
-
-</td>
-<td width="25%" align="center" valign="middle">
-
-# 9.0
-
-<sub>CGPA / 10</sub>
-
-<sub>Through Semester 4</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**B. K. Birla College, Kalyan** — Class XII, 2023–24  
-Percentage: **73%**
-
-**Panna English High School** — Class X, 2021–22  
-Percentage: **92%**
-
-</td>
-</tr>
-</table>
-
----
-
-## 07 — LEADERSHIP & CAMPUS
-
-**K.J.S.I.T. Grandmaster 2026**  
-Chess Tournament Organizer — solely organized the tournament.
-
-**S4DS, KJSIT**  
-Marketing Team Member — June 2025 to June 2026.
-
-**IEEE KJSIT**  
-D.C.T. Team Member — June 2025 to present.
-
-These experiences have helped me work beyond the code editor: coordinating activities, collaborating with people, communicating clearly, and taking ownership of responsibilities.
-
----
-
-## 08 — WHAT I VALUE
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### CLARITY
-
-Understand the problem before adding complexity.
-
-</td>
-<td align="center" width="34%">
-
-### CRAFT
-
-Build with attention to logic, usability, and detail.
-
-</td>
-<td align="center" width="33%">
-
-### PROGRESS
-
-Learn from failures and improve the next iteration.
-
-</td>
-</tr>
-</table>
+<br/><br/>
 
 </div>
 
-I am interested in opportunities where I can contribute to AI, machine learning, data science, or software engineering while continuing to learn from challenging real-world problems.
+<!-- ===================== CONNECT ===================== -->
 
----
-
-## 09 — FIND ME ELSEWHERE
+## 11. Let's Connect
 
 <div align="center">
 
-### Have an interesting problem? Let's talk.
+### Great ideas often begin with a conversation.
+
+Whether it's artificial intelligence, data science, an interesting engineering challenge, or a potential collaboration, I enjoy connecting with people who share a curiosity for technology.
 
 <br/>
-
-<a href="https://github.com/vedant241206">
-<img src="https://img.shields.io/badge/GitHub-Explore_my_work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vedant-pawar-454514331/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
-
-<a href="https://vedantpawar.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-See_the_bigger_picture-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio website"/>
-</a>
 
 <a href="mailto:vedantpawar434@gmail.com">
-<img src="https://img.shields.io/badge/Email-vedantpawar434%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://in.linkedin.com/in/vedant-pawar-454514331">
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/vedant241206">
+<img src="https://img.shields.io/badge/FOLLOW_MY_WORK-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-**Build useful things. Learn deeply. Improve continuously.**
+<h3>Thanks for stopping by! ✨</h3>
 
-<br/>
-
-<sub>VEDANT PAWAR · AI & DATA SCIENCE · INDIA</sub>
+<sub>Explore a repository, share an idea, or just say hello.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=38BDF8" alt="Cyan footer accent"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3500&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=55&amp;lines=Stay+curious.+Keep+building.;The+best+projects+begin+with+a+question.;See+you+in+the+next+commit." alt="Footer Typing Animation"/>
+</a>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:060B19,30:172554,65:4338CA,100:0891B2&amp;height=130&amp;section=footer" alt="Footer Banner"/>
 
 </div>
+
+<!-- ================================================================ -->
+<!--                     END OF PROFILE README                        -->
+<!-- ================================================================ -->
