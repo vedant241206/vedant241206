@@ -757,7 +757,9 @@ Participating in technical-community and collaborative student initiatives.
 
 <h3>My Contribution Journey</h3>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant241206&bg_color=0B1120&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&area_color=4338CA&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub Contribution Activity Graph" />
+<img width="100%" src="https://ghchart.rshah.org/22D3EE/vedant241206" alt="GitHub Contribution Calendar" />
+
+<br/><br/>
 
 <br/><br/>
 
